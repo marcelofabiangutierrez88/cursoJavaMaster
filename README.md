@@ -1,5 +1,20 @@
 # cursoJavaMaster
-Realizando un curso de java desde lo mas basico dentro de cada carpeta se encuentra un ejercicio  al que se le solicita resolucion. Para ver la consigna simplemente descarguen proyecto y haganlo correr en su IDE
+Contenido del curso actualizado al 2/08/19
+*Variables en java
+* Tipos Primitivos
+* Operadores en java
+*Sentencias de control
+*Ciclos en java
+*Creacion de clases en java
+*Creacion de objetos en java
+*Metodos en java
+*Constructores en java
+* Alcance de variables
+* Memoria stack y heap
+* Paso por valor y referencia
+*Uso de la palabra retur n
+* Uso de la palabra this
 
+Todos los contenidos se van subiendo con ejemplos practicos =)
      
      
