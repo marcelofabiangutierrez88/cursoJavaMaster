@@ -14,6 +14,9 @@ Contenido del curso actualizado al 2/08/19
 * Paso por valor y referencia
 *Uso de la palabra retur n
 * Uso de la palabra this
+*Uso de la palabra nul l
+*Encapsulamiento
+*Contexto Estatico
 
 Todos los contenidos se van subiendo con ejemplos practicos =)
      
