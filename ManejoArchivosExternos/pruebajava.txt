@@ -1,0 +1,6 @@
+Contenido a escribir en el archivo
+
+Fin Escritura
+java.io.PrintWriter@15db9742
+
+Fin de anexar
